@@ -3,6 +3,6 @@ function  walk(){
     console.log("i can walk");
 }
 
-function eat(){
-    console.log("i can eat")
+function drink(){
+    console.log("i can drink")
 }
